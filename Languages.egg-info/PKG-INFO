@@ -1,0 +1,66 @@
+Metadata-Version: 2.1
+Name: Languages
+Version: 1.3.0
+Summary: Programming language decoder. Now You can Decode HyperTextMarkupLanguage (html) and css(Style sheet) using this package.
+Home-page: https://github.com/aswanthabam/Language
+Author: Aswanth Vc
+Author-email: no-mail@mail.no
+License: UNKNOWN
+Description: # Language
+        
+        This is a simple programming language decoder. you can decode html and css(style sheet). More simple than Beautiful Soup and work smoothly for heavy data. It will give you data in the format of list, tuple and dictinory so it is simple to use and analyse.
+        
+        #Html parsing begining...👇
+        first import HyperTextMarkup from language pip
+        
+        >>from Language import HyperTextMarkup
+        
+        create an object and give the html to the object
+        
+        >>MyObj = HyperTextMarkup(html)
+        
+        now get a tag. This will give a list of all tags you entered.
+        
+        >>MyObj.get("a")
+        ["<a href="https://youtube.com/c/abamtech">",<a href="https://techabam.blogspot.com">","<a href="https://techabam.000webhostapp.com">"]
+        
+        Now get the contents by the contents. This will give you the contents in the a order
+        
+        >>MyObj.contents
+        ["abam youtube channel","abam blog","abam site"]
+        
+        more informations will come in our site, blog or youtube channel please visit..
+        
+        #css decoding begining...👇
+        
+        first import styleSheet class from Languages lib and create an object.
+        
+        >from Languages import styleSheet
+        >MyObj = styleSheet(data)
+        
+        Site: https://techabam.000webhostapp.com
+        Youtube Channe: https://youtube.com/c/abamtech
+        Blog: https://techabam.blogspot.com
+        
+        #Whats new? (v1.2.0)
+        
+        1.You can directly open a file that contains your data.
+        
+        >MyObj = Languages.class("C://Your_file")
+        
+        2.Now you can decode stylesheet(css) using the stylesheet class. And simply go through the styles of a page
+        
+        >MyObj = Languages.styleSheet(data)
+        
+        3. Stability and performance improoved. simply go through big data. more functions added.
+        
+        
+        version 1.4.0 comeing soon. with more features.
+        abam_inc
+Keywords: html,hypertextmarkup decoder,programming language decoder,languages decoder,programming language decoder,super fast html decoder,html parser,css,style sheet,decoder,css decoder,style sheet decoder
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

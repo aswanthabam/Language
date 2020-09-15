@@ -1,7 +1,0 @@
-README.md
-setup.py
-HyperTextMarkup/__init__.py
-HyperTextMarkup.egg-info/PKG-INFO
-HyperTextMarkup.egg-info/SOURCES.txt
-HyperTextMarkup.egg-info/dependency_links.txt
-HyperTextMarkup.egg-info/top_level.txt
