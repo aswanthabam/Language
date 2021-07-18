@@ -1,6 +1,6 @@
 # Language
 
-[![]] <img src="https://badgen.net/badge/release/v%201.4.0"/>
+[![Python package](https://github.com/aswanthabam/Language/actions/workflows/python-package.yml/badge.svg)](https://github.com/aswanthabam/Language/actions/workflows/python-package.yml) [![Python application](https://github.com/aswanthabam/Language/actions/workflows/python-app.yml/badge.svg)](https://github.com/aswanthabam/Language/actions/workflows/python-app.yml) <img src="https://badgen.net/badge/release/v%201.4.0"/>
 
 [![PyPi](https://badgen.net/badge/icon/pypi?icon=pypi&label)](https://pypi.org/user/abam/) [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/aswanthabam) [![ABAM](https://badgen.net/badge/ABAM/view/)](https://abam.herokuapp.com/projects/Niram)
 
