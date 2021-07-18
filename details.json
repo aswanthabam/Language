@@ -1,0 +1,10 @@
+{
+    "name":"Languages",
+    "version":"1.4.0",
+    "datas":"media/ProjectsCache/Languages-1.4.0/details.json",
+    "readme":"media/ProjectsCache/Languages-1.4.0/Readme.md",
+    "downloadFile":"media/ProjectsUpload/Languages-1.4.0.zip",
+    "otherDetails":{
+        "downloadFile":"Languages-1.4.0.zip"
+    }
+}

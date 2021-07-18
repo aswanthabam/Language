@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="Languages", # Replace with your own username
-    version="1.3.0",
+    version="1.4.0",
     author="Aswanth Vc",
     author_email="no-mail@mail.no",
     description="Programming language decoder. Now You can Decode HyperTextMarkupLanguage (html) and css(Style sheet) using this package.",
